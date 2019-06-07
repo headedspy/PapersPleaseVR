@@ -1,5 +1,5 @@
 # PapersPleaseVR
 
-https://drive.google.com/open?id=1Zg88E86nBpIBUj1RHzU1DuVWh4OBllad
+A VR Adaptation of the "Papers Please" game. Playable with a graphic tablet
 
-github e gaden
+https://www.youtube.com/watch?v=0XhB3O1z72M
